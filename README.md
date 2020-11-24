@@ -43,6 +43,7 @@
   </tr>
 </table>
 
+
 # LAB 4
 ## Latihan
   ![gbr1](gambar/1soal.PNG)
@@ -72,16 +73,21 @@
 
 
   - Simpan dengan nama `latihan.py` kemudian jalankan program. Maka akan menampilkan output sebagai berikut
+
   ![gbr2](gambar/2output.PNG)
+
   - **_Akses List_**
 
   ![gbr2-1](gambar/2-1.PNG)
+
   - **_Ubah elemen list_**
 
   ![gbr2-2](gambar/2-2.PNG)
+
   - **_Tambah elemen list_**
 
   ![gbr2-3](gambar/2-3.PNG)
+
 
 ## Tugas Praktikum
 ### Soal
@@ -125,6 +131,7 @@
         33      print('=' * 81)
 
   - Simpan dengan nama `lab4.py` kemudian jalankan program. Maka akan menampilkan output sebagai berikut
+
   ![gbr4](gambar/4.PNG)
 
 
